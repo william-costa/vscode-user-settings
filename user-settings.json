@@ -1,0 +1,22 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "window.restoreWindows": "none",
+    "window.titleBarStyle": "native",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.showSlider": "always",
+    "files.associations": {
+        "*.wstore": "php"
+    },
+    "window.zoomLevel": 0,
+    "workbench.statusBar.feedback.visible": false,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.selectionHighlight": false,
+    "[php]": {
+        "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?"
+    },
+    "editor.matchBrackets": true,
+    "editor.occurrencesHighlight": false,
+    "workbench.colorTheme": "Atom One Dark"
+}
