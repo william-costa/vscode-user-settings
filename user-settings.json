@@ -11,12 +11,14 @@
     "workbench.statusBar.feedback.visible": false,
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.formatOnPaste": true,
+    "editor.formatOnPaste": false,
     "editor.selectionHighlight": false,
     "[php]": {
         "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?"
     },
     "editor.matchBrackets": true,
     "editor.occurrencesHighlight": false,
-    "workbench.colorTheme": "Atom One Dark"
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "file-icons",
+    "editor.wordWrap": "on"
 }
