@@ -20,5 +20,6 @@
     "editor.occurrencesHighlight": false,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "file-icons",
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "window.openFoldersInNewWindow": "on"
 }
