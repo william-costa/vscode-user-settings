@@ -2,7 +2,6 @@
     "workbench.startupEditor": "newUntitledFile",
     "window.restoreWindows": "none",
     "window.titleBarStyle": "native",
-    "workbench.activityBar.visible": false,
     "editor.minimap.showSlider": "always",
     "files.associations": {
         "*.wstore": "php"
@@ -28,6 +27,9 @@
             "highlight": "#273545"
           }
         }
-      }
+    },
+    "workbench.activityBar.visible": false,
+    "editor.quickSuggestionsDelay": 5,
+    "editor.tabSize": 2
       
 }
