@@ -21,5 +21,13 @@
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "file-icons",
     "editor.wordWrap": "on",
-    "window.openFoldersInNewWindow": "on"
+    "window.openFoldersInNewWindow": "on",
+    "highlight-matching-tag.styles": {
+        "opening": {
+          "full": {
+            "highlight": "#273545"
+          }
+        }
+      }
+      
 }
