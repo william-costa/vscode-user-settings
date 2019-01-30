@@ -30,6 +30,7 @@
     },
     "workbench.activityBar.visible": false,
     "editor.quickSuggestionsDelay": 5,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "alignment.indentBase": "dontchange"
       
 }

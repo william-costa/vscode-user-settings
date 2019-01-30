@@ -1,4 +1,5 @@
 code --install-extension akamud.vscode-theme-onedark
+code --install-extension bladnman.auto-align
 code --install-extension bmewburn.vscode-intelephense-client
 code --install-extension donjayamanne.githistory
 code --install-extension felixfbecker.php-intellisense
@@ -8,4 +9,3 @@ code --install-extension ms-vscode.atom-keybindings
 code --install-extension neilbrayfield.php-docblocker
 code --install-extension sleistner.vscode-fileutils
 code --install-extension vincaslt.highlight-matching-tag
-
