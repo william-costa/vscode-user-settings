@@ -1,0 +1,29 @@
+{
+	"teste": {
+		"prefix": "teste",
+		"body": [
+			"if (isset($$_GET['$1'])) {\n\techo \"<pre>\"; print_r($2); echo \"</pre>\"; exit;\n}"
+		],
+		"description": "Debug teste com get"
+	},
+	"Debug com exit": {
+		"prefix": "debuge",
+		"body": [
+			"echo \"<pre>\"; print_r($1); echo \"</pre>\"; exit;"
+		],
+		"description": "Debug com exit"
+	},
+	"Debug sem exit": {
+		"prefix": "debug",
+		"body": [
+			"echo \"<pre>\"; print_r($1); echo \"</pre>\";"
+		],
+		"description": "Debug sem exit"
+	},
+	"Display errors":{
+		"prefix":"displayerrors",
+		"body": [
+			"ini_set(\"display_errors\",true);"
+		]
+	}
+}
