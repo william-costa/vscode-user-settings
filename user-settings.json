@@ -15,7 +15,7 @@
     "[php]": {
         "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?"
     },
-    "editor.matchBrackets": true,
+    "editor.matchBrackets": false,
     "editor.occurrencesHighlight": false,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "file-icons",
@@ -31,6 +31,6 @@
     "workbench.activityBar.visible": false,
     "editor.quickSuggestionsDelay": 5,
     "editor.tabSize": 2,
-    "alignment.indentBase": "dontchange"
+    "editor.snippetSuggestions": "top"
       
 }
