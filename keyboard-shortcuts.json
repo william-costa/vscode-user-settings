@@ -1,7 +1,7 @@
 [
   {
     "key": "ctrl+alt+a",
-    "command": "extension.autoalign"
+    "command": "alignment.align"
   },
   {
     "key": "ctrl+;",

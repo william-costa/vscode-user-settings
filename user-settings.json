@@ -15,7 +15,7 @@
     "[php]": {
         "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?"
     },
-    "editor.matchBrackets": false,
+    "editor.matchBrackets": true,
     "editor.occurrencesHighlight": false,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "file-icons",
@@ -31,6 +31,8 @@
     "workbench.activityBar.visible": false,
     "editor.quickSuggestionsDelay": 5,
     "editor.tabSize": 2,
-    "editor.snippetSuggestions": "top"
-      
+    "editor.snippetSuggestions": "top",
+    "intelephense.files.exclude": [
+      "**/tmp-wap/**"
+    ]   
 }
